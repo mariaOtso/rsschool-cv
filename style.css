@@ -1,1 +1,31 @@
 
+body {
+    padding: 30px;
+    width: 600px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+.header-name {
+    margin: 50px;
+}
+
+main {
+    display: flex;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+footer {
+    display:flex;
+    
+}
+
+.footer-links {
+    margin: 30px 80px;
+}
